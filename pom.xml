@@ -11,7 +11,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<spring.version>5.2.6.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<junit-version>4.12</junit-version>
 		<servlet-api-version>3.1.0</servlet-api-version>
 		<jsp-version>2.1</jsp-version>
