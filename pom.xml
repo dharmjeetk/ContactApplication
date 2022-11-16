@@ -22,7 +22,7 @@
 		<hsql-version>2.4.0</hsql-version>
 		<hibernate-version>4.3.11.Final</hibernate-version>
 		<log4j-version>1.2.16</log4j-version>
-		<jackson-version>2.9.10.4</jackson-version>
+		<jackson-version>2.12.7.1</jackson-version>
 		<jetty-version>9.4.14.v20181114</jetty-version>
 	</properties>
 
